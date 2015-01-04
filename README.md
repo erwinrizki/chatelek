@@ -1,4 +1,6 @@
-chatelek
+Aplikasi Chat Sederhana Berbasis Web
 ========
 
-aplikasi chat room elek
+Fitur:
+- Chat room
+- Auto refresh chat
